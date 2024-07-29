@@ -20,8 +20,7 @@
 
 title: Ben Everard - Creative Technologist
 email: ben_everard@yahoo.com
-description: >- # this means to ignore newlines until "baseurl:"
-Ben Everard is a creative technologist working mainly with light and illumination
+description: "Ben Everard is a creative technologist working mainly with light and illumination"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://benevpi.github.io" # the base hostname & protocol for your
 twitter_username: jekyllrb
