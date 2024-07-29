@@ -1,1 +1,1 @@
-Ben Everard's home page
+Ben Everard: Creative Technologist
