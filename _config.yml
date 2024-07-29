@@ -27,7 +27,7 @@ twitter_username: jekyllrb
 github_username:  benevpi
 
 # Build settings
-theme: slate
+theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-feed
 
