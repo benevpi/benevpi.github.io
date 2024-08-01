@@ -20,6 +20,13 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media;
 gyroscope; picture-in-picture;
 web-share"
 allowfullscreen></iframe>
+<iframe width="315" height="560" 
+src="https://www.youtube.com/embed/NheTqymMw2s" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+gyroscope; picture-in-picture;
+web-share"
+allowfullscreen></iframe>
 
 # Freeform LED circuits (2021)
 Typically, circuits are made on PCB or breadboard. However, anything that carries current can be used. Ben experimented with attaching addressable LEDs to brass frames to create circuits.
