@@ -3,7 +3,7 @@ Ben Everard is a creative technologist working mainly with light and illuminatio
 # Geometric nature experiments (2024)
 Ben is experimenting with creating medium to large scale light art based around geometric representations of natural forms and proceedurally generated animations based on environmental stimuli.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C1fCOHVTSrI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-![The CAD design of the damselfly wings](damselfly cad.png)
+![The CAD design of the damselfly wings](damselflycad.png)
 
 
 # Islamic art (colaboration with Riaz Shafti) (2022 - 2023)
