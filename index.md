@@ -1,4 +1,4 @@
-Ben Everard is a creative technologist working mainly with light and illumination. Here are a few of his past projects.
+Here are some of Ben Everard's past projects
 
 # Geometric nature experiments (2024)
 Ben is experimenting with creating medium to large scale light art based around geometric representations of natural forms and proceedurally generated animations based on environmental stimuli.
