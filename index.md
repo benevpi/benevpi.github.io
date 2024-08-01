@@ -38,6 +38,7 @@ allowfullscreen></iframe>
 
 # LED Clock (2019)
 This LED word clock was Ben's first foray into using LEDs as a creative medium.
+![An LED word clock](wordclock.png)
 
 # User interaction (2021 - 2022)
 We interact with computers in a very limited number of ways. Typically, keyboard, mouse and gamepad. However, there are many more sensors that can be used to take input from a user. Ben experimented by building a series of alternative computer controllers.
