@@ -11,6 +11,7 @@ Ben colaborated with Islamic artist Riaz Shafti on some pieces of illuminated ge
 
 Ben has been experimenting with small-scape PLA recycling to create jewelry, clocks and other objects. 3D printer filament is often highly coloured, and when melted, different colours can be swirled together to create marbling effects unachievable by other means.
 ![Earings made our of 3D pritner waste](earing.jpg)
+![laser cuttable sheets made from 3D pritner waste](sheets.jpg)
 
 # PCBs as a creative medium (2021 -> 2023)
 Printed Circuit Boards are usually rectanglar and locked away behind enclosers so users rarely get to see them. However, they can be manufactured in almost any shape, and in a range of colours. Ben has been experimenting with bare PCBs as Christmas decorations. The highly reflective solder pads can work particularly well with LED illumination.
