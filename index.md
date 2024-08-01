@@ -29,3 +29,13 @@ This LED word clock was Ben's first foray into using LEDs as a creative medium.
 
 # User interaction (2021 - 2022)
 We interact with computers in a very limited number of ways. Typically, keyboard, mouse and gamepad. However, there are many more sensors that can be used to take input from a user. Ben experimented by building a series of alternative computer controllers.
+<iframe width="315" height="560" 
+src="https://www.youtube.com/embed/HdFMW8ZR8MQ" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+gyroscope; picture-in-picture;
+web-share"
+allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P0G-hcmtkKg?si=Hs-5ErKOh6YvIMjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N-rmAXnfOWU?si=AHRg6oe0yxPYWj_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-YvIQ6jFTC0?si=37kOA0_71IqodKer" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
