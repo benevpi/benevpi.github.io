@@ -20,7 +20,7 @@ Ben colaborated with Islamic artist Riaz Shafti on some pieces of illuminated ge
 
 Ben has been experimenting with small-scape PLA recycling to create jewelry, clocks and other objects. 3D printer filament is often highly coloured, and when melted, different colours can be swirled together to create marbling effects unachievable by other means.
 ![Earings made our of 3D pritner waste](earing.jpg)
-**earings made from recycled blue and white plastic**
+**Earings made from recycled blue and white plastic**
 ![laser cuttable sheets made from 3D printer waste](sheets.jpg)
 **Laser cuttable sheets made from 3D printer waste**
 
@@ -51,7 +51,7 @@ allowfullscreen></iframe>
 # LED Clock (2019)
 This LED word clock was Ben's first foray into using LEDs as a creative medium.
 ![An LED word clock](wordclock.png)
-**This clock has been happily running for five years***
+**This clock has been happily running for five years**
 
 # User interaction (2021 - 2022)
 We interact with computers in a very limited number of ways. Typically, keyboard, mouse and gamepad. However, there are many more sensors that can be used to take input from a user. Ben experimented by building a series of alternative computer controllers.
@@ -62,6 +62,10 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media;
 gyroscope; picture-in-picture;
 web-share"
 allowfullscreen></iframe>
+**Scroll wheels are surprisingly versatile as input devices**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P0G-hcmtkKg?si=Hs-5ErKOh6YvIMjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+**Combining tilt and slide controls to drive a game vehicle**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N-rmAXnfOWU?si=AHRg6oe0yxPYWj_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+**The classic Frogger game, but you have to flap the book to make the frog jump**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-YvIQ6jFTC0?si=37kOA0_71IqodKer" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+**The first controller used a simple ultra sonic distance sensor to move a Pong paddle**
