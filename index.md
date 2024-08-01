@@ -1,6 +1,6 @@
 Here are some of Ben Everard's past projects
 
-<div align="center">
+
 
 # Geometric nature experiments (2024)
 Ben is experimenting with creating medium to large scale light art based around geometric representations of natural forms and proceedurally generated animations based on environmental stimuli.
@@ -71,5 +71,3 @@ allowfullscreen></iframe>
 **The classic Frogger game, but you have to flap the book to make the frog jump**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-YvIQ6jFTC0?si=37kOA0_71IqodKer" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 **The first controller used a simple ultra sonic distance sensor to move a Pong paddle**
-
-</div>
