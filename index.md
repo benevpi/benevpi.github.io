@@ -5,6 +5,7 @@ Ben is experimenting with creating medium to large scale light art based around 
 
 # Islamic art (colaboration with Riaz Shafti) (2022 - 2023)
 Ben colaborated with Islamic artist Riaz Shafti on some pieces of illuminated geometric art.
+![Riaz and Ben's light art on display at North Street Gallery](ben_riaz.jpg)
 
 # Recycling 3D printer waste (2022 -> present)
 3D printers can churn through a lot of plastic. Typically, this is PLA which is not easily recycled using commercial recycling.
