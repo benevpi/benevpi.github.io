@@ -23,6 +23,13 @@ allowfullscreen></iframe>
 
 # Freeform LED circuits (2021)
 Typically, circuits are made on PCB or breadboard. However, anything that carries current can be used. Ben experimented with attaching addressable LEDs to brass frames to create circuits.
+<iframe width="315" height="560" 
+src="https://www.youtube.com/embed/vVzJXbv264U" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+gyroscope; picture-in-picture;
+web-share"
+allowfullscreen></iframe>
 
 # LED Clock (2019)
 This LED word clock was Ben's first foray into using LEDs as a creative medium.
