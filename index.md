@@ -13,6 +13,13 @@ Ben has been experimenting with small-scape PLA recycling to create jewelry, clo
 
 # PCBs as a creative medium (2021 -> 2023)
 Printed Circuit Boards are usually rectanglar and locked away behind enclosers so users rarely get to see them. However, they can be manufactured in almost any shape, and in a range of colours. Ben has been experimenting with bare PCBs as Christmas decorations. The highly reflective solder pads can work particularly well with LED illumination.
+<iframe width="315" height="560" 
+src="https://www.youtube.com/embed/97T4aNBKajI" 
+title="YouTube video player" frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+gyroscope; picture-in-picture;
+web-share"
+allowfullscreen></iframe>
 
 # Freeform LED circuits (2021)
 Typically, circuits are made on PCB or breadboard. However, anything that carries current can be used. Ben experimented with attaching addressable LEDs to brass frames to create circuits.
