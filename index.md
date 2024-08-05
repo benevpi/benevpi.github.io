@@ -4,8 +4,9 @@ Here are some of Ben Everard's past projects
 
 # Geometric nature experiments (2024)
 Ben is experimenting with creating medium to large scale light art based around geometric representations of natural forms and proceedurally generated animations based on environmental stimuli.
-<div align="center">
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C1fCOHVTSrI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div align="center">
 <strong>This geometric butterfly is the first prototype from a larger piece that is in development</strong>
 </div>
 
