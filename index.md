@@ -6,11 +6,11 @@ Here are some of Ben Everard's past projects
 Ben is experimenting with creating medium to large scale light art based around geometric representations of natural forms and proceedurally generated animations based on environmental stimuli.
 <div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C1fCOHVTSrI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-**This geometric butterfly is the first prototype from a larger piece that is in development**
+<strong>This geometric butterfly is the first prototype from a larger piece that is in development</strong>
 </div>
 <div align="center">
-![The CAD design of the damselfly wings](damselflycad.png)
-**As well as a butterfly, ben is developing other insects including a demselfly**
+<img src=/damselflycad.png>
+<strong>As well as a butterfly, ben is developing other insects including a demselfly</strong>
 </div>
 
 
