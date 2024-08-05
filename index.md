@@ -4,10 +4,14 @@ Here are some of Ben Everard's past projects
 
 # Geometric nature experiments (2024)
 Ben is experimenting with creating medium to large scale light art based around geometric representations of natural forms and proceedurally generated animations based on environmental stimuli.
+<div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C1fCOHVTSrI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 **This geometric butterfly is the first prototype from a larger piece that is in development**
+</div>
+<div align="center">
 ![The CAD design of the damselfly wings](damselflycad.png)
 **As well as a butterfly, ben is developing other insects including a demselfly**
+</div>
 
 
 # Islamic art (colaboration with Riaz Shafti) (2022 - 2023)
