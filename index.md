@@ -9,7 +9,7 @@ Ben is experimenting with creating medium to large scale light art based around 
 <strong>This geometric butterfly is the first prototype from a larger piece that is in development</strong>
 </div>
 
-<img src=/damselflycad.png>
+![Working on a prototype of a damselfly](/damselflycad.png)
 <div align="center">
 <strong>As well as a butterfly, ben is developing other insects including a demselfly</strong>
 </div>
