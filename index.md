@@ -3,7 +3,7 @@ Here are some of Ben Everard's past projects
 
 
 # Geometric nature experiments (2024)
-Ben is experimenting with creating medium to large scale light art based around geometric representations of natural forms and proceedurally generated animations based on environmental stimuli.
+Ben is experimenting with creating medium to large scale light art based around geometric representations of natural forms and procedurally generated animations based on environmental stimuli.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C1fCOHVTSrI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <div align="center">
@@ -12,11 +12,11 @@ Ben is experimenting with creating medium to large scale light art based around 
 
 ![Working on a prototype of a damselfly](/damselflycad.png)
 <div align="center">
-<strong>As well as a butterfly, ben is developing other insects including a demselfly</strong>
+<strong>As well as a butterfly, Ben is developing other insects including a damselfly</strong>
 </div>
 
 
-# Islamic art (colaboration with Riaz Shafti) (2022 - 2023)
+# Islamic art (collaboration with Riaz Shafti) (2022 - 2023)
 Ben colaborated with Islamic artist Riaz Shafti on some pieces of illuminated geometric art.
 ![Riaz and Ben's light art on display at North Street Gallery](ben_riaz.jpg)
 <div align="center">
@@ -29,8 +29,8 @@ Ben colaborated with Islamic artist Riaz Shafti on some pieces of illuminated ge
 # Recycling 3D printer waste (2022 -> present)
 3D printers can churn through a lot of plastic. Typically, this is PLA which is not easily recycled using commercial recycling.
 
-Ben has been experimenting with small-scape PLA recycling to create jewelry, clocks and other objects. 3D printer filament is often highly coloured, and when melted, different colours can be swirled together to create marbling effects unachievable by other means.
-![Earings made our of 3D pritner waste](earing.jpg)
+Ben has been experimenting with small-scale PLA recycling to create jewelry, clocks and other objects. 3D printer filament is often highly coloured, and when melted, different colours can be swirled together to create marbling effects unachievable by other means.
+![Earrings made our of 3D pritner waste](earing.jpg)
 <div align="center">
   <strong>Earings made from recycled blue and white plastic</strong></div>
 ![laser cuttable sheets made from 3D printer waste](sheets.jpg)
@@ -38,7 +38,7 @@ Ben has been experimenting with small-scape PLA recycling to create jewelry, clo
   <strong>Laser cuttable sheets made from 3D printer waste</strong></div>
 
 # PCBs as a creative medium (2021 -> 2023)
-Printed Circuit Boards are usually rectanglar and locked away behind enclosers so users rarely get to see them. However, they can be manufactured in almost any shape, and in a range of colours. Ben has been experimenting with bare PCBs as Christmas decorations. The highly reflective solder pads can work particularly well with LED illumination.
+Printed Circuit Boards are usually rectangular and locked away behind enclosers so users rarely get to see them. However, they can be manufactured in almost any shape, and in a range of colours. Ben has been experimenting with bare PCBs as Christmas decorations. The highly reflective solder pads can work particularly well with LED illumination.
 <iframe width="315" height="560" 
 src="https://www.youtube.com/embed/97T4aNBKajI" 
 title="YouTube video player" frameborder="0" 
