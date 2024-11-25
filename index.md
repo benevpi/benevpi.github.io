@@ -1,6 +1,6 @@
+You can contact Ben at ben[at]glowingart.co.uk
+
 Here are some of Ben Everard's past projects
-
-
 
 # Geometric nature experiments (2024)
 Ben is experimenting with creating medium to large scale light art based around geometric representations of natural forms and procedurally generated animations based on environmental stimuli.
