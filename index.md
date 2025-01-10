@@ -8,7 +8,7 @@ Ben created a series of light sculptures for the Lightwavres festival at Salford
 
 ![Audience](/butterfly 2.jpg)
 <div align="center">
-<strong>The damselfly installed in RHS Bridgewater during the preview event</strong>
+<strong>The butterfly at Salford Quays</strong>
 </div>
 
 ![Audience](/damselfly2.jpg)
@@ -16,9 +16,19 @@ Ben created a series of light sculptures for the Lightwavres festival at Salford
 <strong>The damselfly installed in RHS Bridgewater during the preview event</strong>
 </div>
 
+![Audience](/bee 2.jpg)
+<div align="center">
+<strong>The bee fully lit up</strong>
+</div>
+
 ![Installed](/damselfly1.jpg)
 <div align="center">
 <strong>The damselfly set up under a tree</strong>
+</div>
+
+![Audience](/fly 2.jpg)
+<div align="center">
+<strong>Getting up-close and personal with the fly</strong>
 </div>
 
 ![A common candystripe spider](/spider1.jpg)
