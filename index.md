@@ -5,6 +5,12 @@ Here are some of Ben Everard's past projects
 # A Cry For Help (2024)
 Ben created a series of light sculptures for the Lightwavres festival at Salford Quays and RHS Bridgewater Glow. The seven insects highlight the plight of bugs, whose populations are dropping around the world. Each sculpture interacts with the people around it. Commisioned by The Lowery and RHS.
 
+
+![Audience](/butterfly 2.jpg)
+<div align="center">
+<strong>The damselfly installed in RHS Bridgewater during the preview event</strong>
+</div>
+
 ![Audience](/damselfly2.jpg)
 <div align="center">
 <strong>The damselfly installed in RHS Bridgewater during the preview event</strong>
